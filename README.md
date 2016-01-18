@@ -1,5 +1,5 @@
 # Installing SolrCloud For Titan 1.x
-These instructions are for how to install a 2 node SolrCloud on Linux. 
+These instructions are for how to install a 2 node SolrCloud on Linux from scratch.
 These instructions are the "quick" approach for setting up a SolrCloud and do not describe a production configuration. 
 Zookeeper must be installed and available prior to starting the Solr installation. 
 The steps assume a 2 node cluster, although this should work for a 3 and 4 node cluster as well  
